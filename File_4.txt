@@ -4,4 +4,4 @@ Made changes from new-feature-b branch
 
 Made changes from branch new-feature-a
 
-Made changes from develop branch to this
+Made changes from develop branch to this after the creation of new-feature-d.
