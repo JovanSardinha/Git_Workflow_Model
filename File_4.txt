@@ -5,3 +5,8 @@ Made changes from new-feature-b branch
 Made changes from branch new-feature-a
 
 Made changes from new-feature-d
+
+
+File 3
+
+Change in feature j
